@@ -1,0 +1,18 @@
+#far_right{
+    width: 100px;
+    height: 50px;
+    position: absolute;
+    right: 0;
+}
+
+#dots, #letter_d{
+   width: 35px;
+   height: 35px;
+   padding: 5px;
+}
+
+#far_right, #middle, #far_left, #dots,
+#letter_d{
+    display: inline-block;
+}
+
